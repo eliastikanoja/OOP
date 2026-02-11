@@ -111,7 +111,3 @@ using namespace std;
 
     return 0;
 }
-
-    //student s("JUSSI", 22);
-  //  s.printNewStudentInfo();
-
